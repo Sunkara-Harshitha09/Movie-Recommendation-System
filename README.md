@@ -34,6 +34,14 @@ rating – Rating given by the user (scale 1–5)
 
 timestamp – Time when the rating was given
 
+Dataset used: MovieLens Ratings Dataset
+
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+
+File used:
+ratings_small.csv
+ratings.csv
+
 **Feature Engineering**
 
 The dataset contains user-level ratings, so the data is aggregated to obtain movie-level features.
